@@ -4,7 +4,8 @@ draft: false
 tags:
   - tag
 body: >-
-  ![](/uploads/logosvg-wikimedia-commons-3cx-logo-number-symbol-text-trademark-transparent-png-2629915-kopie.png)
+  ![3cx
+  logo](/uploads/logosvg-wikimedia-commons-3cx-logo-number-symbol-text-trademark-transparent-png-2629915-kopie.png)
 
 
   # eine Seite
