@@ -5,7 +5,7 @@ tags:
   - Seite 3 TestDecapCMS
 body: |-
   
-  noch eine Seite 
+  noch eine Seite  - UPDATE 
   ---
 
   ## Seite 3
@@ -25,5 +25,3 @@ body: |-
   * Ergebnis: `appendChild(null)` → **Abbruch → weiße Seite**
 
   ➡️ **Das Script lädt, aber zu früh.**
-
-  ---
